@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .login-container, .voting-container, .admin-container {
+    margin: 20px auto;
+    padding: 20px;
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  button {
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #005f73;
+  }
+  
